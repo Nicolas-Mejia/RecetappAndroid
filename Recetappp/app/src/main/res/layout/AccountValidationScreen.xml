@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:foregroundTint="#FF0000">
+    android:foregroundTint="#FF0000"
+    android:padding="0dp">
 
     <TextView
         android:id="@+id/textView"
@@ -36,5 +37,22 @@
         android:textColor="#FFFFFF"
         tools:layout_editor_absoluteX="62dp"
         tools:layout_editor_absoluteY="240dp" />
+
+    <Button
+        android:id="@+id/botonIngreso2"
+        android:layout_width="146dp"
+        android:layout_height="135dp"
+        android:layout_margin="0dp"
+        android:background="@android:color/transparent"
+        android:backgroundTint="#FFFFFF"
+        android:padding="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:text="←"
+        android:textColor="#FF0000"
+        android:textSize="96sp"
+        tools:layout_editor_absoluteX="-9dp"
+        tools:layout_editor_absoluteY="-52dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
