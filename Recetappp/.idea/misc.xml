@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/RegisterScreen.xml" value="0.30978260869565216" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/AccountValidationScreen.xml" value="0.5541666666666667" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/ForgotPassword.xml" value="0.5541666666666667" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/RegisterScreen.xml" value="0.5" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/SetPasswordScreen.xml" value="0.5541666666666667" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/activity_main.xml" value="0.2695035460992908" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/loginscreen.xml" value="0.5" />
       </map>
