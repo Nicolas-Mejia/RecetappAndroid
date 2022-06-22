@@ -95,7 +95,7 @@
         app:layout_constraintTop_toBottomOf="@+id/code" />
 
     <Button
-        android:id="@+id/botonIngreso"
+        android:id="@+id/registerButton"
         android:layout_width="264dp"
         android:layout_height="49dp"
         android:layout_marginStart="73dp"

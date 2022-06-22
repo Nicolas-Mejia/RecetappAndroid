@@ -7,7 +7,7 @@
     android:foregroundTint="#FF0000">
 
     <Button
-        android:id="@+id/botonIngreso"
+        android:id="@+id/registerButton"
         android:layout_width="300dp"
         android:layout_height="49dp"
         android:layout_marginStart="55dp"
