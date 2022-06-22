@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editIngredientesIn"
+        android:layout_width="360dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Ingrediente"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+    <TextView
+        android:id="@+id/labelIngredienteOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mostrarme recetas sin"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="353dp" />
+
+    <EditText
+        android:id="@+id/editUsuario"
+        android:layout_width="363dp"
+        android:layout_height="46dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Usuario"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="516dp" />
+
+    <TextView
+        android:id="@+id/labelIngredienteIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mostrarme recetas con:"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="219dp" />
+
+    <TextView
+        android:id="@+id/labelUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mostrarme recetas del usuario:"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="477dp" />
+
+    <EditText
+        android:id="@+id/editIngredienteOff"
+        android:layout_width="358dp"
+        android:layout_height="43dp"
+        android:backgroundTint="@color/black"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Ingrediente"
+        tools:layout_editor_absoluteX="59dp"
+        tools:layout_editor_absoluteY="399dp" />
+
+    <TextView
+        android:id="@+id/labelTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingredientes"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/labelReceta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Receta por nombre:"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <EditText
+        android:id="@+id/editReceta"
+        android:layout_width="358dp"
+        android:layout_height="54dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Nombre Receta"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
