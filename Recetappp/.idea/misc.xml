@@ -9,8 +9,14 @@
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/LoginScreen.xml" value="0.67" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/RegisterScreen.xml" value="0.5" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/SetPasswordScreen.xml" value="0.5541666666666667" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/account_validation_screen.xml" value="0.37318840579710144" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/activity_main.xml" value="0.2695035460992908" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/activity_register.xml" value="0.37318840579710144" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/forgot_password_screen.xml" value="0.5" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/login_screen.xml" value="0.5" />
         <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/loginscreen.xml" value="0.5" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/register_screen.xml" value="0.5" />
+        <entry key="..\:/Recetappp/Recetappp/app/src/main/res/layout/set_password_screen.xml" value="0.1933876811594203" />
       </map>
     </option>
   </component>
